@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Author: Andriy Marchuk
+#Author: Andrii Marchuk
 #Version: 0.0.1
 
 YELLOW="\033[1;33m"
